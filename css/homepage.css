@@ -9,6 +9,7 @@ html {
 }
 
 body{
+  min-height: 100vh;
   background-color: #034732;
   flex-direction: row;
   justify-content:center;
@@ -21,7 +22,6 @@ main{
   align-items: stretch;
   padding-top: 10 rem;
   width: 50%;
-  max-width: 50rem;
   display: flex;
 }
 
@@ -40,11 +40,11 @@ main{
   display: flex;
 }
 
-.map > li > a:hover {
-  color: #efca52;
-}
-
 .map > li > a {
   color: #F6FFF7;
   text-decoration: none;
 }
+.map > li > a:hover {
+  color: #efca52;
+}
+

@@ -3,6 +3,11 @@ layout: layout/html.liquid
 pageTitle: Welcome to my blog
 stylesheet: /css/homepage.css
 ---
-{% for page in collections.pages %}
-    <h2><a href="{{ page.url }}">{{ page.data.pageTitle }}</a></h2>
-{% endfor %}
+<main>
+  <p class="invitation">step inside</p>
+  <div class="map">
+    {% for page in collections.pages %}
+    <a href="{{ page.url }}">{{ page.data.pageTitle }}</a>
+    {% endfor %}
+  </div>
+</main>

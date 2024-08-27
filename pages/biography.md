@@ -3,7 +3,7 @@ pageTitle: biography
 heading: Hi! I'm Syd.
 ---
 <p>
-    I'm a student at the University of Utah. I'm interested in 19th century novels, the television series COlumbo, and computer science, among other things. I'm originally from Oregon, but I have been in Utah since 2020. 
+    I'm a student at the University of Utah. I'm interested in 19th century novels, the television series Columbo, and computer science, among other things. I'm originally from Oregon, but I have been in Utah since 2020. 
   </p>
   <p>
     This is my first experience using eleventy for web development. I am indebted to my friend Branden Higby. You can check out Branden's excellent website 
