@@ -1,5 +1,0 @@
-{
-  "layout": "layout/page.liquid", 
-  "tags": ["pages"],
-  "stylesheet": ["/css/main.css"]
-}
