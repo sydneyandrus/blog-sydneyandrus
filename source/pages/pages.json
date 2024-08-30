@@ -1,5 +1,5 @@
 {
   "layout": "page", 
   "tags": ["pages"],
-  "stylesheet": ["/css/main.css"]
+  "stylesheet": ["/css/directory.css"]
 }

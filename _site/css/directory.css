@@ -61,6 +61,11 @@ h1 {
   color: #44BBA4;
 }
 
+a {
+  color:  #034732;
+  text-decoration: none;
+}
+
 .contentLink {
   font-size: 1rem;
 }
@@ -70,7 +75,7 @@ h1 {
   color:#01130E;
 }
 
-.contentLink > a:hover {
+a:hover {
   color:#efca52;
 }
 
@@ -93,3 +98,4 @@ footer > a {
   text-decoration: none;
   color: #97948B;
 }
+

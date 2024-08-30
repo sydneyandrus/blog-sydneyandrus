@@ -109,3 +109,8 @@ table {
 .longQuote {
   margin-left: 3rem;
 }
+
+a {
+  color:  #034732;
+  text-decoration: none;
+}
