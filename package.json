@@ -5,8 +5,7 @@
   "type": "module",
   "scripts": {
     "build": "npx @11ty/eleventy",
-    "serve": "npx @11ty/eleventy --serve --watch",
-    "forNetlify": "eleventy"
+    "serve": "npx @11ty/eleventy --serve --watch"
   },
   "author": "Sydney Andrus",
   "license": "ISC",
