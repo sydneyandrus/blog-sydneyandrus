@@ -22,3 +22,4 @@ heading: columbo reviews
   </tr>
 {% endfor %}
 </table>
+<p>More reviews coming soon.</p>

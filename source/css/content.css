@@ -114,3 +114,10 @@ a {
   color:  #034732;
   text-decoration: none;
 }
+
+picture.inline {
+  float: right;
+  margin: 0;
+  margin-inline: 10%;
+  width: 30%;
+}

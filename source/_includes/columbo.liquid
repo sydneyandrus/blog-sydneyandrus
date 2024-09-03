@@ -1,7 +1,9 @@
 ---
 layout: "base"
 ---
-
+<picture class="inline">
+  <img src="/images/s{{ season  }}e{{ episodeNumber }}.jpeg" width="300" loading="lazy" decoding="async">
+</picture>
 <h1> {{ episodeTitle | default: "Episode Title"}} </h1>
 <p> Season {{ season | default: 0}}, Episode {{ episodeNumber |  default: 0}} </p>
 <p>
